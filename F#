@@ -1,0 +1,2 @@
+let sumList lst = List.sum lst
+printfn "%d" (sumList [1; 2; 3; 4; 5])
